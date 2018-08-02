@@ -1,0 +1,6 @@
+framework module JSPodTest {
+  umbrella header "JSPodTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

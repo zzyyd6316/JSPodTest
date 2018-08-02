@@ -1,0 +1,22 @@
+{
+  "name": "JSPodTest",
+  "version": "0.1.0",
+  "summary": "A short description of JSPodTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zzyyd6316/JSPodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zzyyd6316": "zhangzeyang@xcloud.cc"
+  },
+  "source": {
+    "git": "https://github.com/zzyyd6316/JSPodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JSPodTest/Classes/**/*"
+}

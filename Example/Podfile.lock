@@ -1,0 +1,16 @@
+PODS:
+  - JSPodTest (0.1.0)
+
+DEPENDENCIES:
+  - JSPodTest (from `../`)
+
+EXTERNAL SOURCES:
+  JSPodTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JSPodTest: ceee2adc871418cc76b0bc6af7353fd7f614fe25
+
+PODFILE CHECKSUM: f07e48f67a3a794a8647085effb0ab3b87773904
+
+COCOAPODS: 1.5.3

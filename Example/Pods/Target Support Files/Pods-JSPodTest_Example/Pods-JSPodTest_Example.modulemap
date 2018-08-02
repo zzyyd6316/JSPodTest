@@ -1,0 +1,6 @@
+framework module Pods_JSPodTest_Example {
+  umbrella header "Pods-JSPodTest_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
